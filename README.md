@@ -73,11 +73,11 @@ Each new hire is tracked as a parent task, with nested subtasks for each onboard
 
 | Workspace structure | Supervisor dashboard |
 |---|---|
-| ![Workspace structure](screenshots/Workspace%20Structure.png) | ![Supervisor dashboard](screenshots/Supervisory%20Dashboard.png) |
+| ![Workspace structure](Screenshots/workspace-structure.png) | ![Supervisor dashboard](Screenshots/supervisor-dashboard.png) |
 
 | Checkpoint tasks | Custom fields |
 |---|---|
-| ![Checkpoint tasks](screenshots/Check%20Point%20Tasks.png) | ![Custom fields](screenshots/Custom%20Fields.png) |
+| ![Checkpoint tasks](Screenshots/checkpoint-tasks.png) | ![Custom fields](Screenshots/custom-fields.png) |
 
 ## 🛠️ Skills Demonstrated
 - Workflow & Process Design (onboarding lifecycle, phase-based checkpoints)
